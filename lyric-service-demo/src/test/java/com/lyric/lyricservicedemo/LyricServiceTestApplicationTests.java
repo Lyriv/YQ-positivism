@@ -1,4 +1,4 @@
-package com.lyric.lyricservicetest;
+package com.lyric.lyricservicedemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
