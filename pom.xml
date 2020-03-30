@@ -9,16 +9,15 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
-    <parent>
-        <groupId>com.lyric</groupId>
-        <artifactId>lyric-parent</artifactId>
-        <version>1.0</version>
-    </parent>
+    <!--<parent>-->
+        <!--<groupId>com.lyric</groupId>-->
+        <!--<artifactId>YQ-positivism</artifactId>-->
+        <!--<version>1.0-SNAPSHOT</version>-->
+    <!--</parent>-->
 
     <modules>
         <module>lyric-service-demo</module>
         <module>eureka-server</module>
-        <module>lyric-web-demo</module>
     </modules>
 
 </project>
